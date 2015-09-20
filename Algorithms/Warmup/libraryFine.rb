@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/library-fine
+
 actArr = gets.split(" ")
 expArr = gets.split(" ")
 
