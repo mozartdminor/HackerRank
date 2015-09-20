@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/solve-me-second
+#https://www.hackerrank.com/domains/algorithms/warmup
 
 input = gets
 

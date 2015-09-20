@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/solve-me-second
+#https://www.hackerrank.com/challenges/staircase
 
 retVal = ""
 height = 0
